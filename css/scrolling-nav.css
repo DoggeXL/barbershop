@@ -95,6 +95,16 @@ section {
   #map {
      max-height: 200px;
   }
-
-
+  #facebooktop {
+    display: none;
+  }
+  #facebook {
+    margin-top: -270px;
+  }
+  #öppettider {
+    margin-top: -100px;
+  }
+  #om {
+    margin-top: -200px;
+  }
 }
